@@ -8,7 +8,6 @@ import SignUp from './components/pages/SignUp';
 import Products from './components/pages/Products';
 
 
-
 function App() {
   return (
    <>
